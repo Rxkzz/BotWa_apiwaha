@@ -1,0 +1,8 @@
+{
+  "javascript.validate.enable": true,
+  "javascript.suggestionActions.enabled": false,
+  "DockerRun.DisableDockerrc": true,
+  "DockerRun.Containers": [
+    "08a9d6d64c59"
+  ]
+}
